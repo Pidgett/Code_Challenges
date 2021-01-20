@@ -9,7 +9,7 @@
 
 function lowercase(string){
   return(
-    // replace this line with your code
+    string.toLowerCase()
   );
 }
 
