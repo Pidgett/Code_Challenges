@@ -10,8 +10,8 @@
 
 function first3(string){
   return(
-    // your code here
+    string[0]+string[1]+string[2]
   )
 }
-
+console.log(first3("wisteria"))
 module.exports = first3;
